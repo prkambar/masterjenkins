@@ -2,23 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="52801" started-at="2021-04-29T13:26:36 IST" finished-at="2021-04-29T13:27:29 IST">
+  <suite name="Suite" duration-ms="12165" started-at="2022-07-17T20:31:29 IST" finished-at="2022-07-17T20:31:41 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="52801" started-at="2021-04-29T13:26:36 IST" finished-at="2021-04-29T13:27:29 IST">
+    <test name="Test1" duration-ms="12165" started-at="2022-07-17T20:31:29 IST" finished-at="2022-07-17T20:31:41 IST">
       <class name="mavenforjenkins.UITest">
-        <test-method status="PASS" signature="startBrowser(java.lang.String)[pri:0, instance:mavenforjenkins.UITest@578486a3]" name="startBrowser" duration-ms="52711" started-at="2021-04-29T13:26:36 IST" finished-at="2021-04-29T13:27:29 IST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Edge]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="startBrowser()[pri:0, instance:mavenforjenkins.UITest@a67c67e]" name="startBrowser" duration-ms="12132" started-at="2022-07-17T20:31:29 IST" finished-at="2022-07-17T20:31:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startBrowser -->
       </class> <!-- mavenforjenkins.UITest -->
-    </test> <!-- Test -->
+    </test> <!-- Test1 -->
   </suite> <!-- Suite -->
 </testng-results>
